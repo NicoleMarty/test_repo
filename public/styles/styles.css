@@ -1,4 +1,4 @@
-.container-fluid {
+#home {
     background: url("public/images/cocktails.jpg");
     background-size: cover;
 }
